@@ -30,6 +30,7 @@ struct HandsOffEntry: TimelineEntry {
 
 struct HandsOffWidgetEntryView: View {
     @Environment(\.widgetFamily) var widgetFamily
+    @Environment(\.widgetRenderingMode) var widgetRenderingMode
     var entry: Provider.Entry
 
     /// The text to render in this widget, which might be a defined message or
@@ -51,6 +52,25 @@ struct HandsOffWidgetEntryView: View {
     var isLockScreenWidget: Bool {
         widgetFamily == .accessoryRectangular || widgetFamily == .accessoryInline
     }
+    
+    /// `true` when the widget is rendered in the **tinted** mode.
+    var isAccented: Bool {
+        widgetRenderingMode == .accented
+    }
+
+    /// Picks the background gradient:
+    /// - transparent on lock screen
+    /// - (placeholder) when in tinted mode
+    /// - user-configured otherwise
+    var backgroundColor: AnyGradient {
+        if isLockScreenWidget {
+            Color.clear.gradient
+        } else if isAccented {
+            AnyGradient(Gradient(colors: []))
+        } else {
+            entry.configuration.backgroundColor.color.gradient
+        }
+    }
 
     var body: some View {
         Text(message)
@@ -61,7 +81,7 @@ struct HandsOffWidgetEntryView: View {
             .fontDesign(entry.configuration.roundedText ? .rounded : .default)
             .frame(maxWidth: .infinity, maxHeight: .infinity)
             .padding(isLockScreenWidget ? 5 : 20)
-            .background(isLockScreenWidget ?  Color.clear.gradient : entry.configuration.backgroundColor.color.gradient)
+            .background(backgroundColor)
             .foregroundStyle(isLockScreenWidget ? Color.primary : Color.white)
             .overlay {
                 if entry.configuration.showBorder {
@@ -69,6 +89,7 @@ struct HandsOffWidgetEntryView: View {
                         .stroke(.white, lineWidth: isLockScreenWidget ? 0 : 12)
                 }
             }
+            .widgetAccentable()
     }
 }
 
