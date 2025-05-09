@@ -1,0 +1,213 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Adding a widget" : {
+      "comment" : "Instructions for how to add a widget."
+    },
+    "Background" : {
+      "comment" : "The background color of the widget."
+    },
+    "Be intentional." : {
+
+    },
+    "Black" : {
+      "comment" : "Widget background color."
+    },
+    "Blue" : {
+      "comment" : "Widget background color."
+    },
+    "Break the loop." : {
+
+    },
+    "Choose presence." : {
+
+    },
+    "Color" : {
+      "comment" : "The background color of the widget."
+    },
+    "Configuration" : {
+      "comment" : "Title for configuring their widget's styling."
+    },
+    "Custom (Enter below)" : {
+      "comment" : "Special message option that activates a custom user message."
+    },
+    "Custom Message" : {
+      "comment" : "Allows the user to enter a custom string for their widget."
+    },
+    "Do literally anything else." : {
+
+    },
+    "Drink some water." : {
+
+    },
+    "Enjoy the quiet." : {
+
+    },
+    "Go back to your Home Screen then add a Hands Off widget there. You can choose from various sizes, and once you've added a widget you can customize the message and style." : {
+
+    },
+    "Green" : {
+      "comment" : "Widget background color."
+    },
+    "Hands off!" : {
+      "comment" : "The widget string, natural case."
+    },
+    "Hands Off!" : {
+      "comment" : "The name of the app, title case."
+    },
+    "I don't think so." : {
+
+    },
+    "If you often pick up your phone with no intention other than mindless scrolling, this app is for you." : {
+
+    },
+    "Indigo" : {
+      "comment" : "Widget background color."
+    },
+    "Just pause." : {
+
+    },
+    "Long-press on your Home Screen as if you wanted to rearrange your apps. Tap the Edit button in the top corner, then select Add Widget, and scroll until you find Hands Off.\n\n\nIf you want to edit a widget later on, long-press on it and choose Edit Widget." : {
+
+    },
+    "Message" : {
+      "comment" : "The user's selected text for the widget."
+    },
+    "Mint" : {
+      "comment" : "Widget background color."
+    },
+    "Need help adding a widget?" : {
+
+    },
+    "Nice try." : {
+
+    },
+    "No new notifications." : {
+
+    },
+    "No." : {
+
+    },
+    "Nope." : {
+
+    },
+    "One thing at a time." : {
+
+    },
+    "Orange" : {
+      "comment" : "Widget background color."
+    },
+    "Purple" : {
+      "comment" : "Widget background color."
+    },
+    "Put down your phone" : {
+
+    },
+    "Put down your phone." : {
+
+    },
+    "Put it down, you superstar." : {
+
+    },
+    "Put your phone away." : {
+
+    },
+    "Really? Again?" : {
+
+    },
+    "Reclaim your time." : {
+
+    },
+    "Red" : {
+      "comment" : "Widget background color."
+    },
+    "Rounded Text" : {
+
+    },
+    "Same apps, same scroll." : {
+
+    },
+    "Show Border" : {
+
+    },
+    "Still here?" : {
+
+    },
+    "Stop scrolling." : {
+
+    },
+    "Stretch instead." : {
+
+    },
+    "Teal" : {
+      "comment" : "Widget background color."
+    },
+    "That’s enough pixels for today." : {
+
+    },
+    "The void says hello." : {
+
+    },
+    "There’s nothing new here." : {
+
+    },
+    "There’s still time to stop." : {
+
+    },
+    "This can wait." : {
+
+    },
+    "This isn’t rest." : {
+
+    },
+    "This will still be here later." : {
+
+    },
+    "Time to log off." : {
+
+    },
+    "Walk away." : {
+
+    },
+    "Was this intentional?" : {
+
+    },
+    "What are you avoiding?" : {
+
+    },
+    "What were you about to do?" : {
+
+    },
+    "Why are you on your phone?" : {
+
+    },
+    "Write that idea down." : {
+
+    },
+    "You don’t need to reply right now." : {
+
+    },
+    "You just opened this out of reflex." : {
+
+    },
+    "You promised." : {
+
+    },
+    "You were doing so well." : {
+
+    },
+    "You’re already enough." : {
+
+    },
+    "You’re doing it again." : {
+
+    },
+    "You’re not missing anything" : {
+
+    },
+    "You’ve got better things to do." : {
+
+    }
+  },
+  "version" : "1.0"
+}
