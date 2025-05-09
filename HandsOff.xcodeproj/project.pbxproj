@@ -52,6 +52,7 @@
 			membershipExceptions = (
 				DefinedColor.swift,
 				DefinedMessage.swift,
+				OpenAppIntent.swift,
 			);
 			target = 51AC20742DC7F73600281A1C /* HandsOff */;
 		};
