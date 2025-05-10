@@ -271,7 +271,14 @@
       }
     },
     "Hands Off Widget Configuration" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands Off Widget-Einstellungen"
+          }
+        }
+      }
     },
     "Hands off!" : {
       "comment" : "The widget string, natural case.",
@@ -523,7 +530,14 @@
       }
     },
     "Open App" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App öffnen"
+          }
+        }
+      }
     },
     "Orange" : {
       "comment" : "Widget background color.",
