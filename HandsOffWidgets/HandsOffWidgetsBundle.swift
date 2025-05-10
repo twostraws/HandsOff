@@ -12,5 +12,6 @@ import WidgetKit
 struct HandsOffWidgetsBundle: WidgetBundle {
     var body: some Widget {
         HandsOffWidgets()
+        HandsOffControlWidget()
     }
 }
