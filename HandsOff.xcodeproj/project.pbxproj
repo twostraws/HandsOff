@@ -393,7 +393,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 6F5N3D8ZSB;
+				DEVELOPMENT_TEAM = 9RPB76Y973;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Hands Off!";
@@ -408,7 +408,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = uk.hudson.handsoff;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.hudson.handsoff1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -428,7 +428,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 6F5N3D8ZSB;
+				DEVELOPMENT_TEAM = 4538W4A79B;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Hands Off!";
@@ -443,7 +443,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = uk.hudson.handsoff;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.hudson.handsoff1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -463,7 +463,7 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 6F5N3D8ZSB;
+				DEVELOPMENT_TEAM = 9RPB76Y973;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HandsOffWidgets/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = HandsOffWidgets;
@@ -475,7 +475,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = uk.hudson.handsoff.HandsOffWidgets;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.hudson.handsoff1.HandsOffWidgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -492,7 +492,7 @@
 				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 6F5N3D8ZSB;
+				DEVELOPMENT_TEAM = 9RPB76Y973;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HandsOffWidgets/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = HandsOffWidgets;
@@ -504,7 +504,7 @@
 					"@executable_path/../../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = uk.hudson.handsoff.HandsOffWidgets;
+				PRODUCT_BUNDLE_IDENTIFIER = uk.hudson.handsoff1.HandsOffWidgets;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
