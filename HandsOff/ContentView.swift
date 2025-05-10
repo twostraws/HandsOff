@@ -11,17 +11,25 @@ struct ContentView: View {
     @State private var isShowingHelp = false
 
     var body: some View {
-        VStack {
+        VStack(spacing: 24) {
             Spacer()
+            Image(.appIcon)
+                .resizable()
+                .scaledToFit()
+                .frame(width: 96)
+                .clipShape(.circle)
 
-            Text("Hands Off!")
-                .font(.largeTitle)
-                .bold()
+            VStack {
+                Text("Hands Off!")
+                    .font(.title)
+                    .bold()
 
-            Text("Put down your phone")
-                .font(.title)
-                .fontDesign(.rounded)
-                .bold()
+                Text("Put down your phone")
+                    .font(.title3)
+                    .fontDesign(.rounded)
+                    .foregroundStyle(.secondary)
+                    .bold()
+            }
 
             Spacer()
 
@@ -35,26 +43,39 @@ struct ContentView: View {
             You can choose from various sizes, and once you've added a widget you can customize the message and style.
             """)
 
-            Button("Need help adding a widget?", action: showHelp)
-                .padding(.vertical)
-                .buttonStyle(.borderedProminent)
-                .tint(.white)
-                .foregroundStyle(.blue)
+            Button {
+                isShowingHelp.toggle()
+            } label: {
+                LongButtonLabel(text: "Need help adding a widget?")
+            }
+            .padding(.top)
         }
         .multilineTextAlignment(.center)
         .padding()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
-        .background(.blue.mix(with: .black, by: 0.1).gradient)
-        .foregroundStyle(.white)
+        .background(Color.onboardingBg)
+        .foregroundStyle(.black)
         .statusBarHidden()
-        .alert("Adding a widget", isPresented: $isShowingHelp) {
-        } message: {
-            Text("""
-            Long-press on your Home Screen as if you wanted to rearrange your apps. \
-            Tap the Edit button in the top corner, then select Add Widget, and scroll until you find Hands Off.\n\n
-            If you want to edit a widget later on, long-press on it and choose Edit Widget.
-            """)
-        }
+        .sheet(isPresented: $isShowingHelp, content: {
+            VStack {
+                VideoPlayerView()
+                Text("""
+                Long-press on your Home Screen as if you wanted to rearrange your apps. \
+                Tap the Edit button in the top corner, then select Add Widget, and scroll until you find Hands Off.\n\n
+                If you want to edit a widget later on, long-press on it and choose Edit Widget.
+                """)
+                .padding()
+
+                Button {
+                    isShowingHelp.toggle()
+                } label: {
+                    LongButtonLabel(text: "Understood")
+                }
+                .buttonStyle(.plain)
+                .padding()
+            }
+            .background(Color.onboardingBg)
+        })
     }
 
     func showHelp() {

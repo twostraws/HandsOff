@@ -2,7 +2,12 @@ import AVKit
 import SwiftUI
 
 struct VideoPlayerView: View {
+    // We might want to add control center demo video etc
     let videoName: String
+
+    init(videoName: String = "hands-off-demo") {
+        self.videoName = videoName
+    }
 
     var body: some View {
         GeometryReader { geometry in
@@ -33,6 +38,6 @@ struct VideoPlayerView: View {
 }
 
 #Preview {
-    VideoPlayerView(videoName: "hands-off-demo")
+    VideoPlayerView()
         .frame(height: 400)
 }
