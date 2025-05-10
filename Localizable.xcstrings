@@ -2,211 +2,732 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Adding a widget" : {
-      "comment" : "Instructions for how to add a widget."
+      "comment" : "Instructions for how to add a widget.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィジェットを追加"
+          }
+        }
+      }
     },
     "Background" : {
-      "comment" : "The background color of the widget."
+      "comment" : "The background color of the widget.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バックグラウンド"
+          }
+        }
+      }
     },
     "Be intentional." : {
-
+      "comment" : "Let's act with intention.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "意図を持って行動してみよう。"
+          }
+        }
+      }
     },
     "Black" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黒"
+          }
+        }
+      }
     },
     "Blue" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青"
+          }
+        }
+      }
     },
     "Break the loop." : {
-
+      "comment" : "Let's stop that repetition.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その繰り返しを止めよう。"
+          }
+        }
+      }
     },
     "Choose presence." : {
-
+      "comment" : "Let's choose to be here now.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今ここにいることを選ぼう。"
+          }
+        }
+      }
     },
     "Color" : {
-      "comment" : "The background color of the widget."
+      "comment" : "The background color of the widget.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "色"
+          }
+        }
+      }
     },
     "Configuration" : {
-      "comment" : "Title for configuring their widget's styling."
+      "comment" : "Title for configuring their widget's styling.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
+        }
+      }
     },
     "Custom (Enter below)" : {
-      "comment" : "Special message option that activates a custom user message."
+      "comment" : "Special message option that activates a custom user message.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分で設定（下に入力）"
+          }
+        }
+      }
     },
     "Custom Message" : {
-      "comment" : "Allows the user to enter a custom string for their widget."
+      "comment" : "Allows the user to enter a custom string for their widget.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分で設定したメッセージ"
+          }
+        }
+      }
     },
     "Do literally anything else." : {
-
+      "comment" : "Just try doing something else.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "とにかく他のことをやってみて。"
+          }
+        }
+      }
     },
     "Drink some water." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "お水を飲んで。"
+          }
+        }
+      }
     },
     "Enjoy the quiet." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "静けさを楽しんで。"
+          }
+        }
+      }
     },
     "Go back to your Home Screen then add a Hands Off widget there. You can choose from various sizes, and once you've added a widget you can customize the message and style." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホーム画面に戻って、そこでHands Offウィジェットを追加してください。いくつかのサイズから選ぶことができ、ウィジェットを追加した後は、メッセージとスタイルをカスタマイズできます。"
+          }
+        }
+      }
     },
     "Green" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "緑"
+          }
+        }
+      }
     },
     "Hands off!" : {
-      "comment" : "The widget string, natural case."
+      "comment" : "The widget string, natural case.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハンズ・オフ！"
+          }
+        }
+      }
     },
     "Hands Off!" : {
-      "comment" : "The name of the app, title case."
+      "comment" : "The name of the app, title case.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハンズ・オフ！"
+          }
+        }
+      }
     },
     "I don't think so." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "そうじゃないと思う。"
+          }
+        }
+      }
     },
     "If you often pick up your phone with no intention other than mindless scrolling, this app is for you." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なんとなくスマホを手に取って、無意識にスクロールしてしまうことが多いなら、このアプリはあなたのためのものです。"
+          }
+        }
+      }
     },
     "Indigo" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "藍色"
+          }
+        }
+      }
     },
     "Just pause." : {
-
+      "comment" : "Let's try stopping just for a moment.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "少しだけ止まってみよう。"
+          }
+        }
+      }
     },
     "Long-press on your Home Screen as if you wanted to rearrange your apps. Tap the Edit button in the top corner, then select Add Widget, and scroll until you find Hands Off.\n\n\nIf you want to edit a widget later on, long-press on it and choose Edit Widget." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホーム画面でアプリを並べ替えるときのように、長押ししてください。\n画面の端にある「編集」ボタンをタップし、「ウィジェットを追加」を選びます。\nスクロールして Hands Off! を見つけてください。\n\nあとからウィジェットの設定を変更したい場合は、ウィジェットを長押しして「ウィジェットを編集」を選びます。"
+          }
+        }
+      }
     },
     "Message" : {
-      "comment" : "The user's selected text for the widget."
+      "comment" : "The user's selected text for the widget.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メッセージ"
+          }
+        }
+      }
     },
     "Mint" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ミント"
+          }
+        }
+      }
     },
     "Need help adding a widget?" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィジェットの追加方法がわからないですか？"
+          }
+        }
+      }
     },
     "Nice try." : {
-
+      "comment" : "You were on the right track.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "いい線いってたよ。"
+          }
+        }
+      }
     },
     "No new notifications." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しい通知はありません。"
+          }
+        }
+      }
     },
     "No." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダメ。"
+          }
+        }
+      }
     },
     "Nope." : {
-
+      "comment" : "Softer than \"ダメ\"",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダメだよ。"
+          }
+        }
+      }
     },
     "One thing at a time." : {
-
+      "comment" : "Let's do it one thing at a time.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ひとつずつやっていこう。"
+          }
+        }
+      }
     },
     "Orange" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オレンジ"
+          }
+        }
+      }
     },
     "Purple" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "紫"
+          }
+        }
+      }
     },
     "Put down your phone" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スマホを置いて。"
+          }
+        }
+      }
     },
     "Put down your phone." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スマホを置いて。"
+          }
+        }
+      }
     },
     "Put it down, you superstar." : {
-
+      "comment" : "Put your phone down, superstar. \"スーパースターさん\" = \"superstar-san.\" Softer and more Japanese.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スマホを置いてよ、スーパースターさん。"
+          }
+        }
+      }
     },
     "Put your phone away." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スマホをしまって。"
+          }
+        }
+      }
     },
     "Really? Again?" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本当に？またやるの？"
+          }
+        }
+      }
     },
     "Reclaim your time." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自分の時間を取り戻そう。"
+          }
+        }
+      }
     },
     "Red" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赤"
+          }
+        }
+      }
     },
     "Rounded Text" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "丸みを帯びたテキスト"
+          }
+        }
+      }
     },
     "Same apps, same scroll." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリは変わらず、スクロールも変わらず。"
+          }
+        }
+      }
     },
     "Show Border" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "枠線を表示する"
+          }
+        }
+      }
     },
     "Still here?" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだここにいるの？"
+          }
+        }
+      }
     },
     "Stop scrolling." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクロールするのはもうやめよう。"
+          }
+        }
+      }
     },
     "Stretch instead." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代わりにストレッチしよう。"
+          }
+        }
+      }
     },
     "Teal" : {
-      "comment" : "Widget background color."
+      "comment" : "Widget background color.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青緑"
+          }
+        }
+      }
     },
     "That’s enough pixels for today." : {
-
+      "comment" : "That's enough screen for today.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今日はもう画面は十分だね。"
+          }
+        }
+      }
     },
     "The void says hello." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "何もない空間が挨拶してきたよ。"
+          }
+        }
+      }
     },
     "There’s nothing new here." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特に目新しいものはないよ。"
+          }
+        }
+      }
     },
     "There’s still time to stop." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まだやめる時間はあるよ。"
+          }
+        }
+      }
     },
     "This can wait." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "これは後回しでいいよ。"
+          }
+        }
+      }
     },
     "This isn’t rest." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "これは休息じゃないよ。"
+          }
+        }
+      }
     },
     "This will still be here later." : {
-
+      "comment" : "This won't disappear over time.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "これは時間が経ってもなくならないよ。"
+          }
+        }
+      }
     },
     "Time to log off." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ログオフする時間だよ。"
+          }
+        }
+      }
     },
     "Walk away." : {
-
+      "comment" : "Let's try stepping away from here for a bit.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ここを少し離れてみよう。"
+          }
+        }
+      }
     },
     "Was this intentional?" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "意図的だったのかな？"
+          }
+        }
+      }
     },
     "What are you avoiding?" : {
-
+      "comment" : "Could it be that there's something you want to avoid?",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もしかして、避けたいことがあるのかな？"
+          }
+        }
+      }
     },
     "What were you about to do?" : {
-
+      "comment" : "Huh? Were you about to do something?",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ん？今なんかやろうとしてなかった？"
+          }
+        }
+      }
     },
     "Why are you on your phone?" : {
-
+      "comment" : "Do you have business with your smart phone or something?",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スマホに用事でも？"
+          }
+        }
+      }
     },
     "Write that idea down." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "そのアイデア書き留めておいて。"
+          }
+        }
+      }
     },
     "You don’t need to reply right now." : {
-
+      "comment" : "You don't need to panic about replying right away.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "今すぐ返信しなきゃって焦らなくて大丈夫だよ。"
+          }
+        }
+      }
     },
     "You just opened this out of reflex." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反射的に開いちゃっただけだよね？"
+          }
+        }
+      }
     },
     "You promised." : {
-
+      "comment" : "You promised, didn't you?",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "約束したでしょ？"
+          }
+        }
+      }
     },
     "You were doing so well." : {
-
+      "comment" : "\"すごく良かったよ\" means \"You were doing so well\" \"あとちょっとだったね！\" means \"You were so close!\"",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すごく良かったよ、あとちょっとだったね。"
+          }
+        }
+      }
     },
     "You’re already enough." : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もうそれで十分だよ。"
+          }
+        }
+      }
     },
     "You’re doing it again." : {
-
+      "comment" : "\"ほらほら、\" means \"See, see!\"",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ほらほら、またやってるよ。"
+          }
+        }
+      }
     },
     "You’re not missing anything" : {
-
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "見逃してるものなんて何もないよ。"
+          }
+        }
+      }
     },
     "You’ve got better things to do." : {
-
+      "comment" : "You've got better things to do, don't you?",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もっとするべきことがあるでしょ？"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"
