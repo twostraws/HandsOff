@@ -31,6 +31,10 @@ struct HandsOffEntry: TimelineEntry {
 struct HandsOffWidgetEntryView: View {
     @Environment(\.widgetFamily) var widgetFamily
     @Environment(\.widgetRenderingMode) var widgetRenderingMode
+    
+    /// Used to detect if the widget is in being shown in StandbyMode
+    @Environment(\.showsWidgetContainerBackground) private var showsWidgetContainerBackground
+    
     var entry: Provider.Entry
 
     /// The text to render in this widget, which might be a defined message or
@@ -58,11 +62,12 @@ struct HandsOffWidgetEntryView: View {
         widgetRenderingMode == .accented
     }
 
-    /// Picks the background gradient:
+    /// Picks the primary gradient:
     /// - transparent on lock screen
     /// - (placeholder) when in tinted mode
+    /// - text color when in Standby mode
     /// - user-configured otherwise
-    var backgroundColor: AnyGradient {
+    var primaryColor: AnyGradient {
         if isLockScreenWidget {
             Color.clear.gradient
         } else if isAccented {
@@ -71,25 +76,34 @@ struct HandsOffWidgetEntryView: View {
             entry.configuration.backgroundColor.color.gradient
         }
     }
-
+    
     var body: some View {
+        if showsWidgetContainerBackground {
+            baseText
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                .padding(isLockScreenWidget ? 5 : 20)
+                .background(primaryColor)
+                .foregroundStyle(isLockScreenWidget ? Color.primary : Color.white)
+                .overlay {
+                    if entry.configuration.showBorder {
+                        ContainerRelativeShape()
+                            .stroke(.white, lineWidth: isLockScreenWidget ? 0 : 12)
+                    }
+                }
+                .widgetAccentable()
+        } else {
+            baseText
+                .foregroundStyle(primaryColor)
+        }
+    }
+    
+    private var baseText: some View {
         Text(message)
             .multilineTextAlignment(.center)
             .font(.system(size: 144)) // Use a massive font…
             .minimumScaleFactor(0.05) // …but be prepared to scale it right down.
             .fontWeight(.black)
             .fontDesign(entry.configuration.roundedText ? .rounded : .default)
-            .frame(maxWidth: .infinity, maxHeight: .infinity)
-            .padding(isLockScreenWidget ? 5 : 20)
-            .background(backgroundColor)
-            .foregroundStyle(isLockScreenWidget ? Color.primary : Color.white)
-            .overlay {
-                if entry.configuration.showBorder {
-                    ContainerRelativeShape()
-                        .stroke(.white, lineWidth: isLockScreenWidget ? 0 : 12)
-                }
-            }
-            .widgetAccentable()
     }
 }
 
