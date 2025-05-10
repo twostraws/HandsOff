@@ -33,7 +33,7 @@ struct AddWidgetView: View {
         VideoPlayerView(videoName: "hands-off-demo")
             .frame(height: 300)
             .clipShape(.rect(cornerRadius: 16))
-            .padding([.top, .bottom])
+            .padding(.vertical)
     }
     
     private var informationContent: some View {
