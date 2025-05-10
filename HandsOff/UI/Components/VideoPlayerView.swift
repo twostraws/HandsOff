@@ -24,7 +24,9 @@ struct VideoPlayerView: View {
                     Text("Video not found")
                         .font(.caption)
                 }
-                .frame(width: geometry.size.width, height: geometry.size.height)
+
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
+                .background(Color.onboardingBg)
             }
         }
     }

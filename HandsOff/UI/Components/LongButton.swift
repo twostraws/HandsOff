@@ -6,7 +6,7 @@ struct LongButtonLabel: View {
         Text(text)
             .foregroundStyle(.white)
             .font(.title3.weight(.medium))
-            .hSpacing(.center)
+            .frame(maxWidth: .infinity, alignment: .center)
             .padding(.vertical, 12)
             .background(.black, in: .rect(cornerRadius: 16))
             .contentShape(.rect(cornerRadius: 16))

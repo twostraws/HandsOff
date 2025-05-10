@@ -27,7 +27,6 @@ struct OnboardingView: View {
                 }
             }
         }
-        .xSpacing(.center)
         .background(Color.onboardingBg)
         .foregroundStyle(.black) // Support for darkmode would be nice
         .animation(.easeIn, value: currentStep)

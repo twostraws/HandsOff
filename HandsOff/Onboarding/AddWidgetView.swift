@@ -32,19 +32,19 @@ struct AddWidgetView: View {
     private var videoPlayer: some View {
         VideoPlayerView(videoName: "hands-off-demo")
             .frame(height: 300)
-            .clipShape(RoundedRectangle(cornerRadius: 16))
-            .padding()
+            .clipShape(.rect(cornerRadius: 16))
+            .padding(.bottom)
     }
     
     private var informationContent: some View {
-        VStack(spacing: 16) {
+        VStack(spacing: 24) {
             Text("Adding Widget")
                 .font(.title3)
                 .bold()
                 .foregroundStyle(.black)
                 .padding(.horizontal)
             
-            VStack(alignment: .leading, spacing: 12) {
+            VStack(alignment: .leading, spacing: 16) {
                 instructionStep(number: "1", text: "Long-press on your Home Screen")
                 instructionStep(number: "2", text: "Tap the + button in the top corner")
                 instructionStep(number: "3", text: "Scroll and find Hands Off")
