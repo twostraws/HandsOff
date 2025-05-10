@@ -4,6 +4,12 @@
     "Adding a widget" : {
       "comment" : "Instructions for how to add a widget.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Widget hinzufügen"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15,6 +21,12 @@
     "Background" : {
       "comment" : "The background color of the widget.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hintergrund"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -26,6 +38,12 @@
     "Be intentional." : {
       "comment" : "Let's act with intention.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sei zielgerichtet."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +55,12 @@
     "Black" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schwarz"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -48,6 +72,12 @@
     "Blue" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blau"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -59,6 +89,12 @@
     "Break the loop." : {
       "comment" : "Let's stop that repetition.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durchbrich den Kreislauf."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -70,6 +106,12 @@
     "Choose presence." : {
       "comment" : "Let's choose to be here now.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entscheide dich, im Moment zu sein."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -81,6 +123,12 @@
     "Color" : {
       "comment" : "The background color of the widget.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbe"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -92,6 +140,12 @@
     "Configuration" : {
       "comment" : "Title for configuring their widget's styling.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einstellungen"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -103,6 +157,12 @@
     "Custom (Enter below)" : {
       "comment" : "Special message option that activates a custom user message.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Individuell (unten eingeben)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -114,6 +174,12 @@
     "Custom Message" : {
       "comment" : "Allows the user to enter a custom string for their widget.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Individuelle Botschaft"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -125,6 +191,12 @@
     "Do literally anything else." : {
       "comment" : "Just try doing something else.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egal was, mach was anderes."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -135,6 +207,12 @@
     },
     "Drink some water." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trink etwas Wasser."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -145,6 +223,12 @@
     },
     "Enjoy the quiet." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Genieß die Ruhe."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -155,6 +239,12 @@
     },
     "Go back to your Home Screen then add a Hands Off widget there. You can choose from various sizes, and once you've added a widget you can customize the message and style." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geh zurück zum Home-Bildschirm und füg dort ein Hands Off-Widget hinzu. Du kannst aus verschiedenen Größen wählen. Und sobald du ein Widget hinzugefügt hast kannst du die Botschaft sowie den Stil anpassen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -166,6 +256,12 @@
     "Green" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grün"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -175,11 +271,24 @@
       }
     },
     "Hands Off Widget Configuration" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands Off Widget-Einstellungen"
+          }
+        }
+      }
     },
     "Hands off!" : {
       "comment" : "The widget string, natural case.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands off!"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -191,6 +300,12 @@
     "Hands Off!" : {
       "comment" : "The name of the app, title case.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands Off!"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201,6 +316,12 @@
     },
     "I don't think so." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das solltest du lieber lassen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +332,12 @@
     },
     "If you often pick up your phone with no intention other than mindless scrolling, this app is for you." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn du dein Handy oft nur in die Hand nimmst, um wahllos zu scrollen, ist diese App genau das Richtige für dich."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -222,6 +349,12 @@
     "Indigo" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indigoblau"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -233,6 +366,12 @@
     "Just pause." : {
       "comment" : "Let's try stopping just for a moment.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Einfach mal pausieren."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -243,6 +382,12 @@
     },
     "Long-press on your Home Screen as if you wanted to rearrange your apps. Tap the Edit button in the top corner, then select Add Widget, and scroll until you find Hands Off.\n\n\nIf you want to edit a widget later on, long-press on it and choose Edit Widget." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halte einen leeren Bereich auf dem Home-Bildschirm gedrückt, als würdest du deine Apps neu anordnen wollen. Tippe dann auf „Bearbeiten“ in der oberen Ecke, wähle „Widget hinzufügen“ aus und scrolle, bis du Hands Off findest.\n\nWenn du ein Widget später bearbeiten möchtest, halte es einfach lange gedrückt und wähle „Widget bearbeiten“ aus."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -254,6 +399,12 @@
     "Message" : {
       "comment" : "The user's selected text for the widget.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Botschaft"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -265,6 +416,12 @@
     "Mint" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minze"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -275,6 +432,12 @@
     },
     "Need help adding a widget?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brauchst du Hilfe beim Hinzufügen von Widgets?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -286,6 +449,12 @@
     "Nice try." : {
       "comment" : "You were on the right track.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Netter Versuch."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -296,6 +465,12 @@
     },
     "No new notifications." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine neuen Mitteilungen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -306,6 +481,12 @@
     },
     "No." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nein."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -317,6 +498,12 @@
     "Nope." : {
       "comment" : "Softer than \"ダメ\"",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nö."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -328,6 +515,12 @@
     "One thing at a time." : {
       "comment" : "Let's do it one thing at a time.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eins nach dem anderen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -337,11 +530,24 @@
       }
     },
     "Open App" : {
-
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App öffnen"
+          }
+        }
+      }
     },
     "Orange" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -353,6 +559,12 @@
     "Purple" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lila"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -363,6 +575,12 @@
     },
     "Put down your phone" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leg dein Handy weg"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -373,6 +591,12 @@
     },
     "Put down your phone." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leg dein Handy weg."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -384,6 +608,12 @@
     "Put it down, you superstar." : {
       "comment" : "Put your phone down, superstar. \"スーパースターさん\" = \"superstar-san.\" Softer and more Japanese.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leg es weg, du Held."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -394,6 +624,12 @@
     },
     "Put your phone away." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steck dein Handy weg."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -404,6 +640,12 @@
     },
     "Really? Again?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wirklich? Schon wieder?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -414,6 +656,12 @@
     },
     "Reclaim your time." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hol dir deine Zeit zurück."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -425,6 +673,12 @@
     "Red" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rot"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -435,6 +689,12 @@
     },
     "Rounded Text" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runde Schrift"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -445,6 +705,12 @@
     },
     "Same apps, same scroll." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gleiche Apps, gleiches Scrollen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -455,6 +721,12 @@
     },
     "Show Border" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rahmen anzeigen"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -465,6 +737,12 @@
     },
     "Still here?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Immer noch hier?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -475,6 +753,12 @@
     },
     "Stop scrolling." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hör auf zu scrollen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -485,6 +769,12 @@
     },
     "Stretch instead." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Streck dich stattdessen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -496,6 +786,12 @@
     "Teal" : {
       "comment" : "Widget background color.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Petrol"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -507,6 +803,12 @@
     "That’s enough pixels for today." : {
       "comment" : "That's enough screen for today.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das sind genug Pixel für heute."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -517,6 +819,12 @@
     },
     "The void says hello." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Leere grüßt dich."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -527,6 +835,12 @@
     },
     "There’s nothing new here." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hier gibt es nichts Neues."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -537,6 +851,12 @@
     },
     "There’s still time to stop." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Es ist noch nicht zu spät, aufzuhören."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -547,6 +867,12 @@
     },
     "This can wait." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das hat Zeit."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -557,6 +883,12 @@
     },
     "This isn’t rest." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das ist kein Ausruhen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -568,6 +900,12 @@
     "This will still be here later." : {
       "comment" : "This won't disappear over time.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das wird später immer noch hier sein."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -578,6 +916,12 @@
     },
     "Time to log off." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeit, sich abzumelden."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -589,6 +933,12 @@
     "Walk away." : {
       "comment" : "Let's try stepping away from here for a bit.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wende dich ab."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -599,6 +949,12 @@
     },
     "Was this intentional?" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "War das mit Absicht?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -610,6 +966,12 @@
     "What are you avoiding?" : {
       "comment" : "Could it be that there's something you want to avoid?",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Was schiebst du vor dir her?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -621,6 +983,12 @@
     "What were you about to do?" : {
       "comment" : "Huh? Were you about to do something?",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Was hattest du vor zu tun?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -632,6 +1000,12 @@
     "Why are you on your phone?" : {
       "comment" : "Do you have business with your smart phone or something?",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Warum bist du am Handy?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -642,6 +1016,12 @@
     },
     "Write that idea down." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schreib dir die Idee auf."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -653,6 +1033,12 @@
     "You don’t need to reply right now." : {
       "comment" : "You don't need to panic about replying right away.",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du brauchst nicht gleich zu antworten."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -663,6 +1049,12 @@
     },
     "You just opened this out of reflex." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du hast es nur reflexartig eingeschaltet."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -674,6 +1066,12 @@
     "You promised." : {
       "comment" : "You promised, didn't you?",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du hast es versprochen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -685,6 +1083,12 @@
     "You were doing so well." : {
       "comment" : "\"すごく良かったよ\" means \"You were doing so well\" \"あとちょっとだったね！\" means \"You were so close!\"",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du hast dich so gut geschlagen."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -695,6 +1099,12 @@
     },
     "You’re already enough." : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du bist genug, so wie du bist."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -706,6 +1116,12 @@
     "You’re doing it again." : {
       "comment" : "\"ほらほら、\" means \"See, see!\"",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du machst es schon wieder."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -716,6 +1132,12 @@
     },
     "You’re not missing anything" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du verpasst nichts."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -727,6 +1149,12 @@
     "You’ve got better things to do." : {
       "comment" : "You've got better things to do, don't you?",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du hast sinnvollere Dinge zu tun."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
