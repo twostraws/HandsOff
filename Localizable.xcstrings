@@ -15,6 +15,12 @@
             "state" : "translated",
             "value" : "ウィジェットを追加"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adicionar um widget"
+          }
         }
       }
     },
@@ -31,6 +37,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "バックグラウンド"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fundo"
           }
         }
       }
@@ -49,6 +61,12 @@
             "state" : "translated",
             "value" : "意図を持って行動してみよう。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seja intencional."
+          }
         }
       }
     },
@@ -65,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "黒"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preto"
           }
         }
       }
@@ -83,6 +107,12 @@
             "state" : "translated",
             "value" : "青"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Azul"
+          }
         }
       }
     },
@@ -99,6 +129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "その繰り返しを止めよう。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quebre o ciclo."
           }
         }
       }
@@ -117,6 +153,12 @@
             "state" : "translated",
             "value" : "今ここにいることを選ぼう。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Escolha estar presente."
+          }
         }
       }
     },
@@ -133,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "色"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cor"
           }
         }
       }
@@ -151,6 +199,12 @@
             "state" : "translated",
             "value" : "設定"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuração"
+          }
         }
       }
     },
@@ -167,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自分で設定（下に入力）"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalizada (Digite abaixo)"
           }
         }
       }
@@ -185,6 +245,12 @@
             "state" : "translated",
             "value" : "自分で設定したメッセージ"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensagem Personalizada"
+          }
         }
       }
     },
@@ -202,6 +268,12 @@
             "state" : "translated",
             "value" : "とにかく他のことをやってみて。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Faça literalmente qualquer outra coisa."
+          }
         }
       }
     },
@@ -217,6 +289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "お水を飲んで。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beba um pouco de água."
           }
         }
       }
@@ -234,6 +312,12 @@
             "state" : "translated",
             "value" : "静けさを楽しんで。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aproveite o silêncio."
+          }
         }
       }
     },
@@ -249,6 +333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ホーム画面に戻って、そこでHands Offウィジェットを追加してください。いくつかのサイズから選ぶことができ、ウィジェットを追加した後は、メッセージとスタイルをカスタマイズできます。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Volte para a Tela de Início e adicione um widget do Hands Off. Você pode escolher entre vários tamanhos e, depois de adicionar, pode personalizar a mensagem e o estilo."
           }
         }
       }
@@ -267,6 +357,12 @@
             "state" : "translated",
             "value" : "緑"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verde"
+          }
         }
       }
     },
@@ -276,6 +372,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hands Off Widget-Einstellungen"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuração do Widget do Hands Off"
           }
         }
       }
@@ -294,6 +396,12 @@
             "state" : "translated",
             "value" : "ハンズ・オフ！"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands off!"
+          }
         }
       }
     },
@@ -311,6 +419,12 @@
             "state" : "translated",
             "value" : "ハンズ・オフ！"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands Off!"
+          }
         }
       }
     },
@@ -327,6 +441,12 @@
             "state" : "translated",
             "value" : "そうじゃないと思う。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acho que não."
+          }
         }
       }
     },
@@ -342,6 +462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "なんとなくスマホを手に取って、無意識にスクロールしてしまうことが多いなら、このアプリはあなたのためのものです。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você costuma pegar o celular só para scrollar sem pensar, este app é para você."
           }
         }
       }
@@ -360,6 +486,12 @@
             "state" : "translated",
             "value" : "藍色"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Índigo"
+          }
         }
       }
     },
@@ -377,6 +509,12 @@
             "state" : "translated",
             "value" : "少しだけ止まってみよう。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apenas pause."
+          }
         }
       }
     },
@@ -392,6 +530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ホーム画面でアプリを並べ替えるときのように、長押ししてください。\n画面の端にある「編集」ボタンをタップし、「ウィジェットを追加」を選びます。\nスクロールして Hands Off! を見つけてください。\n\nあとからウィジェットの設定を変更したい場合は、ウィジェットを長押しして「ウィジェットを編集」を選びます。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toque e segure na Tela de Início como se fosse reorganizar seus apps. Toque no botão Editar no canto superior, selecione Adicionar Widget e procure o Hands Off.\n\n\nSe quiser editar o widget depois, toque e segure nele e escolha Editar Widget."
           }
         }
       }
@@ -410,6 +554,12 @@
             "state" : "translated",
             "value" : "メッセージ"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mensagem"
+          }
         }
       }
     },
@@ -427,6 +577,12 @@
             "state" : "translated",
             "value" : "ミント"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menta"
+          }
         }
       }
     },
@@ -442,6 +598,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウィジェットの追加方法がわからないですか？"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precisa de ajuda para adicionar um widget?"
           }
         }
       }
@@ -460,6 +622,12 @@
             "state" : "translated",
             "value" : "いい線いってたよ。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boa tentativa."
+          }
         }
       }
     },
@@ -476,6 +644,12 @@
             "state" : "translated",
             "value" : "新しい通知はありません。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nenhuma notificação nova."
+          }
         }
       }
     },
@@ -491,6 +665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ダメ。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não."
           }
         }
       }
@@ -509,6 +689,12 @@
             "state" : "translated",
             "value" : "ダメだよ。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nope."
+          }
         }
       }
     },
@@ -526,6 +712,12 @@
             "state" : "translated",
             "value" : "ひとつずつやっていこう。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma coisa de cada vez."
+          }
         }
       }
     },
@@ -535,6 +727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App öffnen"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir App"
           }
         }
       }
@@ -553,6 +751,12 @@
             "state" : "translated",
             "value" : "オレンジ"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Laranja"
+          }
         }
       }
     },
@@ -570,6 +774,12 @@
             "state" : "translated",
             "value" : "紫"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roxo"
+          }
         }
       }
     },
@@ -586,6 +796,12 @@
             "state" : "translated",
             "value" : "スマホを置いて。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Largue o celular"
+          }
         }
       }
     },
@@ -601,6 +817,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スマホを置いて。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Largue o celular."
           }
         }
       }
@@ -619,6 +841,12 @@
             "state" : "translated",
             "value" : "スマホを置いてよ、スーパースターさん。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarda isso, superstar."
+          }
         }
       }
     },
@@ -634,6 +862,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "スマホをしまって。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guarde o celular."
           }
         }
       }
@@ -651,6 +885,12 @@
             "state" : "translated",
             "value" : "本当に？またやるの？"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sério? De novo?"
+          }
         }
       }
     },
@@ -666,6 +906,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自分の時間を取り戻そう。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resgate o seu tempo."
           }
         }
       }
@@ -684,6 +930,12 @@
             "state" : "translated",
             "value" : "赤"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vermelho"
+          }
         }
       }
     },
@@ -699,6 +951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "丸みを帯びたテキスト"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Texto Arredondado"
           }
         }
       }
@@ -716,6 +974,12 @@
             "state" : "translated",
             "value" : "アプリは変わらず、スクロールも変わらず。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mesmos apps, mesmo scroll."
+          }
         }
       }
     },
@@ -731,6 +995,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "枠線を表示する"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar Borda"
           }
         }
       }
@@ -748,6 +1018,12 @@
             "state" : "translated",
             "value" : "まだここにいるの？"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda por aqui?"
+          }
         }
       }
     },
@@ -764,6 +1040,12 @@
             "state" : "translated",
             "value" : "スクロールするのはもうやめよう。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pare de scrollar."
+          }
         }
       }
     },
@@ -779,6 +1061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "代わりにストレッチしよう。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vá se alongar."
           }
         }
       }
@@ -797,6 +1085,12 @@
             "state" : "translated",
             "value" : "青緑"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Azul-petróleo"
+          }
         }
       }
     },
@@ -814,6 +1108,12 @@
             "state" : "translated",
             "value" : "今日はもう画面は十分だね。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chega de pixels por hoje."
+          }
         }
       }
     },
@@ -829,6 +1129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "何もない空間が挨拶してきたよ。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O vazio mandou um oi."
           }
         }
       }
@@ -846,6 +1152,12 @@
             "state" : "translated",
             "value" : "特に目新しいものはないよ。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nada de novo por aqui."
+          }
         }
       }
     },
@@ -861,6 +1173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "まだやめる時間はあるよ。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ainda é tempo de parar."
           }
         }
       }
@@ -878,6 +1196,12 @@
             "state" : "translated",
             "value" : "これは後回しでいいよ。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isso pode esperar."
+          }
         }
       }
     },
@@ -893,6 +1217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "これは休息じゃないよ。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isso não é descanso."
           }
         }
       }
@@ -911,6 +1241,12 @@
             "state" : "translated",
             "value" : "これは時間が経ってもなくならないよ。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isso ainda vai estar aqui mais tarde."
+          }
         }
       }
     },
@@ -926,6 +1262,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ログオフする時間だよ。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de desconectar."
           }
         }
       }
@@ -944,6 +1286,12 @@
             "state" : "translated",
             "value" : "ここを少し離れてみよう。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se afaste."
+          }
         }
       }
     },
@@ -959,6 +1307,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "意図的だったのかな？"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Isso foi intencional?"
           }
         }
       }
@@ -977,6 +1331,12 @@
             "state" : "translated",
             "value" : "もしかして、避けたいことがあるのかな？"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que você está evitando?"
+          }
         }
       }
     },
@@ -993,6 +1353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ん？今なんかやろうとしてなかった？"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O que você estava prestes a fazer?"
           }
         }
       }
@@ -1011,6 +1377,12 @@
             "state" : "translated",
             "value" : "スマホに用事でも？"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por que você está no celular?"
+          }
         }
       }
     },
@@ -1026,6 +1398,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "そのアイデア書き留めておいて。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anote essa ideia."
           }
         }
       }
@@ -1044,6 +1422,12 @@
             "state" : "translated",
             "value" : "今すぐ返信しなきゃって焦らなくて大丈夫だよ。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você não precisa responder agora."
+          }
         }
       }
     },
@@ -1059,6 +1443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "反射的に開いちゃっただけだよね？"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você abriu isso no automático."
           }
         }
       }
@@ -1077,6 +1467,12 @@
             "state" : "translated",
             "value" : "約束したでしょ？"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você prometeu."
+          }
         }
       }
     },
@@ -1094,6 +1490,12 @@
             "state" : "translated",
             "value" : "すごく良かったよ、あとちょっとだったね。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você estava indo tão bem."
+          }
         }
       }
     },
@@ -1109,6 +1511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "もうそれで十分だよ。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você já é suficiente."
           }
         }
       }
@@ -1127,6 +1535,12 @@
             "state" : "translated",
             "value" : "ほらほら、またやってるよ。"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você está fazendo de novo."
+          }
         }
       }
     },
@@ -1142,6 +1556,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "見逃してるものなんて何もないよ。"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você não está perdendo nada."
           }
         }
       }
@@ -1159,6 +1579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "もっとするべきことがあるでしょ？"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Você tem coisas melhores para fazer."
           }
         }
       }
