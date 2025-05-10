@@ -31,10 +31,10 @@ struct HandsOffEntry: TimelineEntry {
 struct HandsOffWidgetEntryView: View {
     @Environment(\.widgetFamily) var widgetFamily
     @Environment(\.widgetRenderingMode) var widgetRenderingMode
-    
+
     /// Used to detect if the widget is in being shown in StandbyMode
     @Environment(\.showsWidgetContainerBackground) private var showsWidgetContainerBackground
-    
+
     var entry: Provider.Entry
 
     /// The text to render in this widget, which might be a defined message or
@@ -56,7 +56,7 @@ struct HandsOffWidgetEntryView: View {
     var isLockScreenWidget: Bool {
         widgetFamily == .accessoryRectangular || widgetFamily == .accessoryInline
     }
-    
+
     /// `true` when the widget is rendered in the **tinted** mode.
     var isAccented: Bool {
         widgetRenderingMode == .accented
@@ -76,7 +76,7 @@ struct HandsOffWidgetEntryView: View {
             entry.configuration.backgroundColor.color.gradient
         }
     }
-    
+
     var body: some View {
         if showsWidgetContainerBackground {
             baseText
@@ -96,7 +96,7 @@ struct HandsOffWidgetEntryView: View {
                 .foregroundStyle(primaryColor)
         }
     }
-    
+
     private var baseText: some View {
         Text(message)
             .multilineTextAlignment(.center)
@@ -128,4 +128,28 @@ struct HandsOffWidgets: Widget {
         .contentMarginsDisabled()
         .promptsForUserConfiguration()
     }
+}
+
+#Preview(as: .systemSmall) {
+    HandsOffWidgets()
+} timeline: {
+    HandsOffEntry(date: .now, configuration: ConfigurationAppIntent())
+}
+
+#Preview(as: .systemMedium) {
+    HandsOffWidgets()
+} timeline: {
+    HandsOffEntry(date: .now, configuration: ConfigurationAppIntent())
+}
+
+#Preview(as: .systemLarge) {
+    HandsOffWidgets()
+} timeline: {
+    HandsOffEntry(date: .now, configuration: ConfigurationAppIntent())
+}
+
+#Preview(as: .accessoryRectangular) {
+    HandsOffWidgets()
+} timeline: {
+    HandsOffEntry(date: .now, configuration: ConfigurationAppIntent())
 }
