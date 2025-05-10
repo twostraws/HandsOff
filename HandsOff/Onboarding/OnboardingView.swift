@@ -21,6 +21,8 @@ struct OnboardingView: View {
                 }
             }
         }
+        .xSpacing(.center)
+        .background(Color("onboarding-bg-color"))
         .animation(.easeIn, value: currentStep)
         .transition(.opacity)
         .preferredColorScheme(currentStep == .welcomeView ? .dark : .light)

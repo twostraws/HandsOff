@@ -2,7 +2,6 @@ import AVKit
 import SwiftUI
 
 struct AddWidgetView: View {
-    @State private var isAnimating = false
     let onComplete: () -> Void
     
     init(onComplete: @escaping () -> Void) {
@@ -11,8 +10,6 @@ struct AddWidgetView: View {
     
     var body: some View {
         VStack(spacing: 32) {
-            Spacer()
-            
             // Video demonstration
             videoPlayer
             
@@ -23,18 +20,12 @@ struct AddWidgetView: View {
             Spacer()
             
             // Continue button
-            LongButton.capsule("Got it!", theme: .custom(background: .blue, text: .white)) {
+            Button {
                 onComplete()
+            } label: {
+                LongButtonLabel(text: "Got it!")
             }
-            .opacity(isAnimating ? 1.0 : 0.0)
-            .animation(.easeInOut(duration: 0.5).delay(0.7), value: isAnimating)
-            .padding(.horizontal)
-        }
-        .background(Color.white)
-        .onAppear {
-            DispatchQueue.main.asyncAfter(deadline: .now() + 0.2) {
-                isAnimating = true
-            }
+            .buttonStyle(.plain)
         }
     }
     
@@ -45,9 +36,6 @@ struct AddWidgetView: View {
             .frame(height: 300)
             .clipShape(RoundedRectangle(cornerRadius: 16))
             .padding()
-            .scaleEffect(isAnimating ? 1.0 : 0.8)
-            .opacity(isAnimating ? 1.0 : 0.0)
-            .animation(.spring(duration: 0.8), value: isAnimating)
     }
     
     private var informationContent: some View {
@@ -57,9 +45,6 @@ struct AddWidgetView: View {
                 .bold()
                 .foregroundStyle(.black)
                 .padding(.horizontal)
-                .opacity(isAnimating ? 1.0 : 0.0)
-                .offset(y: isAnimating ? 0 : 20)
-                .animation(.easeOut(duration: 0.6).delay(0.3), value: isAnimating)
             
             VStack(alignment: .leading, spacing: 12) {
                 instructionStep(number: "1", text: "Long-press on your Home Screen")
@@ -67,10 +52,6 @@ struct AddWidgetView: View {
                 instructionStep(number: "3", text: "Scroll and find Hands Off")
                 instructionStep(number: "4", text: "Choose a widget size and add")
             }
-            .padding(.horizontal, 32)
-            .opacity(isAnimating ? 1.0 : 0.0)
-            .offset(y: isAnimating ? 0 : 15)
-            .animation(.easeOut(duration: 0.6).delay(0.5), value: isAnimating)
         }
     }
     
