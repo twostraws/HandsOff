@@ -9,17 +9,14 @@ struct AddWidgetView: View {
     }
     
     var body: some View {
-        VStack(spacing: 32) {
+        VStack(spacing: 24) {
             // Video demonstration
             videoPlayer
             
-            // Title and description text
             informationContent
-                .multilineTextAlignment(.center)
             
             Spacer()
             
-            // Continue button
             Button {
                 onComplete()
             } label: {
@@ -27,6 +24,7 @@ struct AddWidgetView: View {
             }
             .buttonStyle(.plain)
         }
+        .padding()
     }
     
     // MARK: - UI Components
@@ -40,8 +38,8 @@ struct AddWidgetView: View {
     
     private var informationContent: some View {
         VStack(spacing: 16) {
-            Text("Adding a Widget")
-                .font(.title)
+            Text("Adding Widget")
+                .font(.title3)
                 .bold()
                 .foregroundStyle(.black)
                 .padding(.horizontal)
@@ -58,13 +56,11 @@ struct AddWidgetView: View {
     private func instructionStep(number: String, text: String) -> some View {
         HStack(alignment: .top, spacing: 12) {
             Text(number)
-                .font(.headline)
                 .foregroundStyle(.white)
-                .frame(width: 28, height: 28)
-                .background(Circle().fill(.blue))
+                .frame(width: 24, height: 24)
+                .background(.blue, in: .circle)
             
             Text(text)
-                .font(.body)
                 .foregroundStyle(.black.opacity(0.7))
         }
     }
@@ -74,4 +70,5 @@ struct AddWidgetView: View {
     AddWidgetView {
         print("Completing")
     }
+    .background(Color.onboardingBg)
 }

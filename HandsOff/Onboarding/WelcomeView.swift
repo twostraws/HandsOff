@@ -28,6 +28,7 @@ struct WelcomeView: View {
             }
             .buttonStyle(.plain)
         }
+        .padding()
     }
     
     // MARK: - UI Components

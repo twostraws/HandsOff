@@ -1,4 +1,10 @@
+import Foundation
 import SwiftUI
+
+enum OnboardingStep: String {
+    case welcomeView
+    case addWidgetView
+}
 
 struct OnboardingView: View {
     @State private var currentStep: OnboardingStep = .welcomeView
@@ -22,10 +28,9 @@ struct OnboardingView: View {
             }
         }
         .xSpacing(.center)
-        .background(Color("onboarding-bg-color"))
+        .background(Color.onboardingBg)
+        .foregroundStyle(.black) // Support for darkmode would be nice
         .animation(.easeIn, value: currentStep)
-        .transition(.opacity)
-        .preferredColorScheme(currentStep == .welcomeView ? .dark : .light)
     }
 }
 
