@@ -7,15 +7,21 @@
 
 import SwiftUI
 import WidgetKit
+import AppIntents
 
+/// A control widget that displays a motivational message
+/// and opens the app when tapped.
 struct HandsOffControlWidget: ControlWidget {
     var body: some ControlWidgetConfiguration {
-        StaticControlConfiguration(
+        
+        AppIntentControlConfiguration(
             kind: "HandsOffControlWidget",
-        ) {
+            provider: HandsOffControlWidgetProvider()
+        ) { message in
             ControlWidgetButton(action: OpenAppIntent()) {
-                Label("Hands Off!", systemImage: "hand.raised.fill")
+                Label(message, systemImage: "hand.raised.fill")
             }
         }
+        .promptsForUserConfiguration()
     }
 }

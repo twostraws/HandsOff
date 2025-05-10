@@ -49,6 +49,9 @@
     "Green" : {
       "comment" : "Widget background color."
     },
+    "Hands Off Widget Configuration" : {
+
+    },
     "Hands off!" : {
       "comment" : "The widget string, natural case."
     },
