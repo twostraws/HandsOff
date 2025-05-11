@@ -21,6 +21,12 @@
             "state" : "translated",
             "value" : "Adicionar um widget"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додавання віджету"
+          }
         }
       }
     },
@@ -43,6 +49,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fundo"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фон"
           }
         }
       }
@@ -67,6 +79,12 @@
             "state" : "translated",
             "value" : "Seja intencional."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Май чіткий намір."
+          }
         }
       }
     },
@@ -89,6 +107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preto"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чорний"
           }
         }
       }
@@ -113,6 +137,12 @@
             "state" : "translated",
             "value" : "Azul"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Синій"
+          }
         }
       }
     },
@@ -135,6 +165,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quebre o ciclo."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Припини це повторення."
           }
         }
       }
@@ -159,6 +195,12 @@
             "state" : "translated",
             "value" : "Escolha estar presente."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Будь в моменті."
+          }
         }
       }
     },
@@ -181,6 +223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cor"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Колір"
           }
         }
       }
@@ -205,6 +253,12 @@
             "state" : "translated",
             "value" : "Configuração"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування"
+          }
         }
       }
     },
@@ -227,6 +281,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Personalizada (Digite abaixo)"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Свій (введіть нижче)"
           }
         }
       }
@@ -251,6 +311,12 @@
             "state" : "translated",
             "value" : "Mensagem Personalizada"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Своє повідомлення"
+          }
         }
       }
     },
@@ -274,6 +340,12 @@
             "state" : "translated",
             "value" : "Faça literalmente qualquer outra coisa."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пороби щось інше."
+          }
         }
       }
     },
@@ -295,6 +367,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beba um pouco de água."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Випий водички."
           }
         }
       }
@@ -318,6 +396,12 @@
             "state" : "translated",
             "value" : "Aproveite o silêncio."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Насолодись тишею."
+          }
         }
       }
     },
@@ -339,6 +423,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Volte para a Tela de Início e adicione um widget do Hands Off. Você pode escolher entre vários tamanhos e, depois de adicionar, pode personalizar a mensagem e o estilo."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поверніться на Головний Екран, після чого додайте Hands Off-віджет звідти. Ви можете обрати його в будь-якому розмірі. Додавши віджет ви можете змінювати його текст та стиль."
           }
         }
       }
@@ -363,6 +453,12 @@
             "state" : "translated",
             "value" : "Verde"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зелений"
+          }
         }
       }
     },
@@ -378,6 +474,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configuração do Widget do Hands Off"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Конфігурація Hands Off віджету"
           }
         }
       }
@@ -402,6 +504,12 @@
             "state" : "translated",
             "value" : "Hands off!"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Руки геть!"
+          }
         }
       }
     },
@@ -421,6 +529,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands Off!"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hands Off!"
@@ -447,6 +561,12 @@
             "state" : "translated",
             "value" : "Acho que não."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я так не думаю."
+          }
         }
       }
     },
@@ -468,6 +588,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você costuma pegar o celular só para scrollar sem pensar, este app é para você."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Якщо ви часто берете свій телефон в руки без очевидної мети, окрім бездумного скролінгу - тоді цей застосунок саме для вас."
           }
         }
       }
@@ -492,6 +618,12 @@
             "state" : "translated",
             "value" : "Índigo"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Індиго"
+          }
         }
       }
     },
@@ -515,6 +647,12 @@
             "state" : "translated",
             "value" : "Apenas pause."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зроби паузу."
+          }
         }
       }
     },
@@ -536,6 +674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toque e segure na Tela de Início como se fosse reorganizar seus apps. Toque no botão Editar no canto superior, selecione Adicionar Widget e procure o Hands Off.\n\n\nSe quiser editar o widget depois, toque e segure nele e escolha Editar Widget."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Натисніть і утримуйте на Головному екрані, так само, як коли ви хочете змінити порядок застосунків. Натисніть кнопку «+» та оберіть «Додати віджет», після чого гортайте список, доки не побачите в ньому «Hands Off!».\n\n\nЯкщо ви пізніше захочете відредагувати віджет - ви можете просто натиснути й утримувати його, після чого обрати «Редагувати віджет»."
           }
         }
       }
@@ -560,6 +704,12 @@
             "state" : "translated",
             "value" : "Mensagem"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Текст"
+          }
         }
       }
     },
@@ -583,6 +733,12 @@
             "state" : "translated",
             "value" : "Menta"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мʼятний"
+          }
         }
       }
     },
@@ -604,6 +760,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precisa de ajuda para adicionar um widget?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Потрібна допомога з додаванням віджета?"
           }
         }
       }
@@ -628,6 +790,12 @@
             "state" : "translated",
             "value" : "Boa tentativa."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гарна спроба."
+          }
         }
       }
     },
@@ -650,6 +818,12 @@
             "state" : "translated",
             "value" : "Nenhuma notificação nova."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Нових повідомлень немає."
+          }
         }
       }
     },
@@ -671,6 +845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Não."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ні."
           }
         }
       }
@@ -695,6 +875,12 @@
             "state" : "translated",
             "value" : "Nope."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не-а."
+          }
         }
       }
     },
@@ -718,6 +904,12 @@
             "state" : "translated",
             "value" : "Uma coisa de cada vez."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зосередься на одному за раз."
+          }
         }
       }
     },
@@ -733,6 +925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir App"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити застосунок"
           }
         }
       }
@@ -757,6 +955,12 @@
             "state" : "translated",
             "value" : "Laranja"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помаранчевий"
+          }
         }
       }
     },
@@ -780,6 +984,12 @@
             "state" : "translated",
             "value" : "Roxo"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Фіолетовий"
+          }
         }
       }
     },
@@ -802,6 +1012,12 @@
             "state" : "translated",
             "value" : "Largue o celular"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поклади свій телефон"
+          }
         }
       }
     },
@@ -823,6 +1039,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Largue o celular."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поклади свій телефон."
           }
         }
       }
@@ -847,6 +1069,12 @@
             "state" : "translated",
             "value" : "Guarda isso, superstar."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Залиш телефон, зірко."
+          }
         }
       }
     },
@@ -868,6 +1096,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guarde o celular."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відклади телефон."
           }
         }
       }
@@ -891,6 +1125,12 @@
             "state" : "translated",
             "value" : "Sério? De novo?"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Серйозно? Знову?"
+          }
         }
       }
     },
@@ -912,6 +1152,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resgate o seu tempo."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поверни собі свій час."
           }
         }
       }
@@ -936,6 +1182,12 @@
             "state" : "translated",
             "value" : "Vermelho"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Червоний"
+          }
         }
       }
     },
@@ -957,6 +1209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Texto Arredondado"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закруглений текст"
           }
         }
       }
@@ -980,6 +1238,12 @@
             "state" : "translated",
             "value" : "Mesmos apps, mesmo scroll."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Одні і ті самі застосунки, один й той самий скролінг."
+          }
         }
       }
     },
@@ -1001,6 +1265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mostrar Borda"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показувати рамку"
           }
         }
       }
@@ -1024,6 +1294,12 @@
             "state" : "translated",
             "value" : "Ainda por aqui?"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Все ще тут?"
+          }
         }
       }
     },
@@ -1046,6 +1322,12 @@
             "state" : "translated",
             "value" : "Pare de scrollar."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Припини скролити."
+          }
         }
       }
     },
@@ -1067,6 +1349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vá se alongar."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Краще розімнися."
           }
         }
       }
@@ -1091,6 +1379,12 @@
             "state" : "translated",
             "value" : "Azul-petróleo"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бірюзовий"
+          }
         }
       }
     },
@@ -1114,6 +1408,12 @@
             "state" : "translated",
             "value" : "Chega de pixels por hoje."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Достатньо пікселів на сьогодні."
+          }
         }
       }
     },
@@ -1135,6 +1435,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O vazio mandou um oi."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Безодня передавала привіт."
           }
         }
       }
@@ -1158,6 +1464,12 @@
             "state" : "translated",
             "value" : "Nada de novo por aqui."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тут немає нічого нового."
+          }
         }
       }
     },
@@ -1179,6 +1491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ainda é tempo de parar."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У тебе ще є час зупинитись."
           }
         }
       }
@@ -1202,6 +1520,12 @@
             "state" : "translated",
             "value" : "Isso pode esperar."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Це може почекати."
+          }
         }
       }
     },
@@ -1223,6 +1547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Isso não é descanso."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Це не відпочинок."
           }
         }
       }
@@ -1247,6 +1577,12 @@
             "state" : "translated",
             "value" : "Isso ainda vai estar aqui mais tarde."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Це нікуди не дінеться."
+          }
         }
       }
     },
@@ -1268,6 +1604,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hora de desconectar."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Час вийти з мережі."
           }
         }
       }
@@ -1292,6 +1634,12 @@
             "state" : "translated",
             "value" : "Se afaste."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відійди."
+          }
         }
       }
     },
@@ -1313,6 +1661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Isso foi intencional?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Це було навмисно?"
           }
         }
       }
@@ -1337,6 +1691,12 @@
             "state" : "translated",
             "value" : "O que você está evitando?"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чого ти тут уникаєш?"
+          }
         }
       }
     },
@@ -1359,6 +1719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O que você estava prestes a fazer?"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Що у тебе було в планах до цього?"
           }
         }
       }
@@ -1383,6 +1749,12 @@
             "state" : "translated",
             "value" : "Por que você está no celular?"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чому ти в телефоні?"
+          }
         }
       }
     },
@@ -1404,6 +1776,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anote essa ideia."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запиши ту ідею."
           }
         }
       }
@@ -1428,6 +1806,12 @@
             "state" : "translated",
             "value" : "Você não precisa responder agora."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тобі не потрібно відповідати прямо зараз."
+          }
         }
       }
     },
@@ -1449,6 +1833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você abriu isso no automático."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ти це робиш рефлекторно."
           }
         }
       }
@@ -1473,6 +1863,12 @@
             "state" : "translated",
             "value" : "Você prometeu."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "А як же обіцянка?"
+          }
         }
       }
     },
@@ -1496,6 +1892,12 @@
             "state" : "translated",
             "value" : "Você estava indo tão bem."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У тебе так добре виходило."
+          }
         }
       }
     },
@@ -1517,6 +1919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você já é suficiente."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ти і так молодець."
           }
         }
       }
@@ -1541,6 +1949,12 @@
             "state" : "translated",
             "value" : "Você está fazendo de novo."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ти знову це робиш."
+          }
         }
       }
     },
@@ -1562,6 +1976,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você não está perdendo nada."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ти нічого не пропускаєш."
           }
         }
       }
@@ -1585,6 +2005,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você tem coisas melhores para fazer."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У тебе є важливіші справи."
           }
         }
       }
