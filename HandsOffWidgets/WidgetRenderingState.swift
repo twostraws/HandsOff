@@ -7,34 +7,36 @@
 
 import WidgetKit
 
+/// Represents the distinct rendering contexts or visual styles for a widget.
 enum WidgetRenderingState {
     case homeScreen
     case homeScreenTinted
     case lockScreen
     case standby
-    
+
+    /// Determines the appropriate rendering state based on the widget's context.
     static func getState(
-      _ widgetFamily: WidgetFamily,
-      _ widgetRenderingMode: WidgetRenderingMode,
-      _ showsWidgetContainerBackground: Bool
+        _ widgetFamily: WidgetFamily,
+        _ widgetRenderingMode: WidgetRenderingMode,
+        _ showsWidgetContainerBackground: Bool
     ) -> Self {
-      switch (widgetFamily, widgetRenderingMode, showsWidgetContainerBackground) {
-      // Accessory widgets always “accessory”
-      case (.accessoryRectangular, _, _), (.accessoryInline, _, _):
-        return .lockScreen
+        switch (widgetFamily, widgetRenderingMode, showsWidgetContainerBackground) {
 
-      // Tinted mode trumps the “no background” check
-      case (_, .accented, _):
-        return .homeScreenTinted
+        // Accessory/lockScreen rendering mode.
+        case (.accessoryRectangular, _, _), (.accessoryInline, _, _):
+            return .lockScreen
 
-      // If rendering unaccented and no container — standby
-      case (_, _, false):
-        return .standby
+        // Accented/tinted rendering mode.
+        case (_, .accented, _):
+            return .homeScreenTinted
 
-      // Everything else is “homeScreen”
-      default:
-        return .homeScreen
-      }
+        // If not accented and the standard container background isn't shown (common in StandBy), use the standby state.
+        case (_, _, false):
+            return .standby
+
+        // All other cases default to the standard Home Screen appearance.
+        default:
+            return .homeScreen
+        }
     }
-
 }

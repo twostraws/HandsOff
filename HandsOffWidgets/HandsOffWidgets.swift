@@ -29,10 +29,11 @@ struct HandsOffEntry: TimelineEntry {
 }
 
 struct HandsOffWidgetEntryView: View {
+    /// Mainly used to detect if the widget is displayed as an accessory.
     @Environment(\.widgetFamily) var widgetFamily
+    /// Mainly used to dectect if the widget is currently tinted.
     @Environment(\.widgetRenderingMode) var widgetRenderingMode
-
-    /// Used to detect if the widget is in being shown in StandbyMode
+    /// Used to detect if the widget is in being shown in StandbyMode.
     @Environment(\.showsWidgetContainerBackground) private var showsWidgetContainerBackground
 
     var entry: Provider.Entry
@@ -51,6 +52,7 @@ struct HandsOffWidgetEntryView: View {
         }
     }
     
+    /// Returns current widget rendering context.
     var widgetRenderingState: WidgetRenderingState {
         .getState(widgetFamily, widgetRenderingMode, showsWidgetContainerBackground)
     }
@@ -79,11 +81,6 @@ struct HandsOffWidgetEntryView: View {
             .fontDesign(entry.configuration.roundedText ? .rounded : .default)
     }
     
-    private var standbyView: some View {
-        baseText
-            .foregroundStyle(entry.configuration.backgroundColor.color.gradient)
-    }
-    
     private var baseHomeScreenView: some View {
         baseText
             .frame(maxWidth: .infinity, maxHeight: .infinity)
@@ -102,6 +99,11 @@ struct HandsOffWidgetEntryView: View {
         baseText
             .foregroundStyle(Color.primary)
             .padding(5)
+    }
+    
+    private var standbyView: some View {
+        baseText
+            .foregroundStyle(entry.configuration.backgroundColor.color.gradient)
     }
 }
 

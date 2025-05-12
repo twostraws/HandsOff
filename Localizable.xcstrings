@@ -377,6 +377,17 @@
         }
       }
     },
+    "Drop it like it’s hot." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Випусти, ніби пече."
+          }
+        }
+      }
+    },
     "Enjoy the quiet." : {
       "localizations" : {
         "de" : {
