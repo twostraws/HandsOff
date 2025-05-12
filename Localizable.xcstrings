@@ -299,6 +299,16 @@
         }
       }
     },
+    "Drop it like it’s hot." : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "熱いものみたいにサッと捨てちゃえ。"
+          }
+        }
+      }
+    },
     "Enjoy the quiet." : {
       "localizations" : {
         "de" : {
@@ -372,6 +382,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hands Off Widget-Einstellungen"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハンズ・オフ・ウィジェット設定"
           }
         },
         "pt-BR" : {
@@ -727,6 +743,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App öffnen"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを開く"
           }
         },
         "pt-BR" : {
