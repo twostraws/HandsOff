@@ -16,6 +16,7 @@ enum DefinedMessage: String, AppEnum {
         .choosePresence: "Choose presence.",
         .doLiterallyAnythingElse: "Do literally anything else.",
         .drinkSomeWater: "Drink some water.",
+        .dropItLikeItsHot: "Drop it like it’s hot.",
         .enjoyTheQuiet: "Enjoy the quiet.",
         .handsOff: "Hands off!",
         .iDontThinkSo: "I don't think so.",
@@ -64,6 +65,7 @@ enum DefinedMessage: String, AppEnum {
     case choosePresence
     case doLiterallyAnythingElse
     case drinkSomeWater
+    case dropItLikeItsHot
     case enjoyTheQuiet
     case handsOff
     case iDontThinkSo
