@@ -29,10 +29,11 @@ struct HandsOffEntry: TimelineEntry {
 }
 
 struct HandsOffWidgetEntryView: View {
+    /// Mainly used to detect if the widget is displayed as an accessory.
     @Environment(\.widgetFamily) var widgetFamily
+    /// Mainly used to dectect if the widget is currently tinted.
     @Environment(\.widgetRenderingMode) var widgetRenderingMode
-
-    /// Used to detect if the widget is in being shown in StandbyMode
+    /// Used to detect if the widget is in being shown in StandbyMode.
     @Environment(\.showsWidgetContainerBackground) private var showsWidgetContainerBackground
 
     var entry: Provider.Entry
@@ -50,50 +51,24 @@ struct HandsOffWidgetEntryView: View {
             }
         }
     }
-
-    /// True when we're being displayed on the lock screen. These widgets have
-    /// translucent system styling applied, so must be treated differently.
-    var isLockScreenWidget: Bool {
-        widgetFamily == .accessoryRectangular || widgetFamily == .accessoryInline
-    }
-
-    /// `true` when the widget is rendered in the **tinted** mode.
-    var isAccented: Bool {
-        widgetRenderingMode == .accented
-    }
-
-    /// Picks the primary gradient:
-    /// - transparent on lock screen
-    /// - (placeholder) when in tinted mode
-    /// - text color when in Standby mode
-    /// - user-configured otherwise
-    var primaryColor: AnyGradient {
-        if isLockScreenWidget {
-            Color.clear.gradient
-        } else if isAccented {
-            AnyGradient(Gradient(colors: []))
-        } else {
-            entry.configuration.backgroundColor.color.gradient
-        }
+    
+    /// Returns current widget rendering context.
+    var widgetRenderingState: WidgetRenderingState {
+        .getState(widgetFamily, widgetRenderingMode, showsWidgetContainerBackground)
     }
 
     var body: some View {
-        if showsWidgetContainerBackground {
-            baseText
-                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                .padding(isLockScreenWidget ? 5 : 20)
-                .background(primaryColor)
-                .foregroundStyle(isLockScreenWidget ? Color.primary : Color.white)
-                .overlay {
-                    if entry.configuration.showBorder {
-                        ContainerRelativeShape()
-                            .stroke(.white, lineWidth: isLockScreenWidget ? 0 : 12)
-                    }
-                }
-                .widgetAccentable()
-        } else {
-            baseText
-                .foregroundStyle(primaryColor)
+        switch widgetRenderingState {
+        case .lockScreen:
+            lockScreenView
+        case .homeScreen:
+            baseHomeScreenView
+                .background(entry.configuration.backgroundColor.color.gradient)
+        case .homeScreenTinted:
+            baseHomeScreenView
+                .background(Color.clear.gradient)
+        case .standby:
+            standbyView
         }
     }
 
@@ -104,6 +79,31 @@ struct HandsOffWidgetEntryView: View {
             .minimumScaleFactor(0.05) // …but be prepared to scale it right down.
             .fontWeight(.black)
             .fontDesign(entry.configuration.roundedText ? .rounded : .default)
+    }
+    
+    private var baseHomeScreenView: some View {
+        baseText
+            .frame(maxWidth: .infinity, maxHeight: .infinity)
+            .padding(20)
+            .foregroundStyle(Color.white)
+            .overlay {
+                if entry.configuration.showBorder {
+                    ContainerRelativeShape()
+                        .stroke(.white, lineWidth: 12)
+                }
+            }
+            .widgetAccentable()
+    }
+    
+    private var lockScreenView: some View {
+        baseText
+            .foregroundStyle(Color.primary)
+            .padding(5)
+    }
+    
+    private var standbyView: some View {
+        baseText
+            .foregroundStyle(entry.configuration.backgroundColor.color.gradient)
     }
 }
 
