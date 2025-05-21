@@ -458,20 +458,16 @@
     "Drop it like it’s hot." : {
       "extractionState" : "manual",
       "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "熱いものみたいにサッと捨てちゃえ。"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Випусти, ніби пече."
-          }
-        }
-      }
-    },
-    "Drop it like it’s hot." : {
-      "localizations" : {
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rzuć nim jakby był gorący."
           }
         }
       }
@@ -585,6 +581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hands Off Widget-Einstellungen"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハンズ・オフ・ウィジェット設定"
           }
         },
         "pl" : {
@@ -1132,6 +1134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "App öffnen"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリを開く"
           }
         },
         "pl" : {
