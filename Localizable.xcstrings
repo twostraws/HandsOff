@@ -28,6 +28,12 @@
             "value" : "Adicionar um widget"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hur man lägger till en widget"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -61,6 +67,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fundo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bakgrund"
           }
         },
         "uk" : {
@@ -98,6 +110,12 @@
             "value" : "Seja intencional."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Var fokuserad."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -131,6 +149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preto"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Svart"
           }
         },
         "uk" : {
@@ -168,6 +192,12 @@
             "value" : "Azul"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blå"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -201,6 +231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quebre o ciclo."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bryt mönstret."
           }
         },
         "uk" : {
@@ -238,6 +274,12 @@
             "value" : "Escolha estar presente."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Var närvarande."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -271,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cor"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Färg"
           }
         },
         "uk" : {
@@ -308,6 +356,12 @@
             "value" : "Configuração"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfiguration"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -341,6 +395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Personalizada (Digite abaixo)"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egen (skriv nedan)"
           }
         },
         "uk" : {
@@ -378,6 +438,12 @@
             "value" : "Mensagem Personalizada"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Egen text"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -413,6 +479,12 @@
             "value" : "Faça literalmente qualquer outra coisa."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gör något annat. Vad som helst."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -445,6 +517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Beba um pouco de água."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drick lite vatten."
           }
         },
         "uk" : {
@@ -482,6 +560,12 @@
             "value" : "Larga que tá fervendo."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Släpp den som om den bränner."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -516,6 +600,12 @@
             "value" : "Aproveite o silêncio."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Njut av tystnaden."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -548,6 +638,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Volte para a Tela de Início e adicione um widget do Hands Off. Você pode escolher entre vários tamanhos e, depois de adicionar, pode personalizar a mensagem e o estilo."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gå tillbaka till hemskärmen och lägg till en Hands Off-widget. Du kan välja mellan flera olika storlekar, och när du har lagt till en widget kan du anpassa både meddelande och stil."
           }
         },
         "uk" : {
@@ -585,6 +681,12 @@
             "value" : "Verde"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grön"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -617,6 +719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Configuração do Widget do Hands Off"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands Off-widgetkonfiguration"
           }
         },
         "uk" : {
@@ -654,6 +762,12 @@
             "value" : "Hands off!"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Låt bli!"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -684,6 +798,12 @@
           }
         },
         "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hands Off!"
+          }
+        },
+        "sv" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hands Off!"
@@ -723,6 +843,12 @@
             "value" : "Acho que não."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skulle inte tro det."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -755,6 +881,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Se você costuma pegar o celular só para scrollar sem pensar, este app é para você."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Brukar du ta upp mobilen bara för att scrolla utan mål? Då är den här appen för dig."
           }
         },
         "uk" : {
@@ -792,6 +924,12 @@
             "value" : "Índigo"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indigo"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -827,6 +965,12 @@
             "value" : "Apenas pause."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta en paus."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -859,6 +1003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Toque e segure na Tela de Início como se fosse reorganizar seus apps. Toque no botão Editar no canto superior, selecione Adicionar Widget e procure o Hands Off.\n\n\nSe quiser editar o widget depois, toque e segure nele e escolha Editar Widget."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tryck och håll ned på hemskärmen som om du skulle flytta appar. Tryck sedan på Ändra-knappen uppe i hörnet och välj Lägg till widget. Bläddra tills du hittar Hands Off.\n\nOm du senare vill redigera din widget, tryck och håll ned på den och välj Redigera widget."
           }
         },
         "uk" : {
@@ -896,6 +1046,12 @@
             "value" : "Mensagem"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meddelande"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -931,6 +1087,12 @@
             "value" : "Menta"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mintgrön"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -963,6 +1125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Precisa de ajuda para adicionar um widget?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Behöver du hjälp att lägga till en widget?"
           }
         },
         "uk" : {
@@ -1000,6 +1168,12 @@
             "value" : "Boa tentativa."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bra försök."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1034,6 +1208,12 @@
             "value" : "Nenhuma notificação nova."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inga nya notiser."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1066,6 +1246,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Não."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nej."
           }
         },
         "uk" : {
@@ -1103,6 +1289,12 @@
             "value" : "Nope."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nepp."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1138,6 +1330,12 @@
             "value" : "Uma coisa de cada vez."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En sak i taget."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1170,6 +1368,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abrir App"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öppna app"
           }
         },
         "uk" : {
@@ -1207,6 +1411,12 @@
             "value" : "Laranja"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1240,6 +1450,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Roxo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lila"
           }
         },
         "uk" : {
@@ -1276,6 +1492,12 @@
             "value" : "Largue o celular"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg ifrån dig din telefon"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1308,6 +1530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Largue o celular."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg ner din telefon"
           }
         },
         "uk" : {
@@ -1345,6 +1573,12 @@
             "value" : "Guarda isso, superstar."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du är grym, men lägg ifrån dig den nu"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1377,6 +1611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Guarde o celular."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lägg ifrån dig din telefon."
           }
         },
         "uk" : {
@@ -1413,6 +1653,12 @@
             "value" : "Sério? De novo?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verkligen? Igen?"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1445,6 +1691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Resgate o seu tempo."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ta tillbaka kontrollen över din tid."
           }
         },
         "uk" : {
@@ -1482,6 +1734,12 @@
             "value" : "Vermelho"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Röd"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1514,6 +1772,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Texto Arredondado"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rundad text"
           }
         },
         "uk" : {
@@ -1550,6 +1814,12 @@
             "value" : "Mesmos apps, mesmo scroll."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Samma appar, samma gamla skrollande."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1582,6 +1852,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mostrar Borda"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visa ram"
           }
         },
         "uk" : {
@@ -1618,6 +1894,12 @@
             "value" : "Ainda por aqui?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fortfarande här?"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1652,6 +1934,12 @@
             "value" : "Pare de scrollar."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sluta skrolla."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1684,6 +1972,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vá se alongar."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sträck på dig istället."
           }
         },
         "uk" : {
@@ -1721,6 +2015,12 @@
             "value" : "Azul-petróleo"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blågrön"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1754,6 +2054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chega de pixels por hoje."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slutpixlat för idag."
           }
         },
         "uk" : {
@@ -1790,6 +2096,12 @@
             "value" : "O vazio mandou um oi."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avgrunden säger hej."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1822,6 +2134,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nada de novo por aqui."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inget nytt att visa."
           }
         },
         "uk" : {
@@ -1858,6 +2176,12 @@
             "value" : "Ainda é tempo de parar."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har fortfarande tid att sluta."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1892,6 +2216,12 @@
             "value" : "Isso pode esperar."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det kan vänta."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1924,6 +2254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Isso não é descanso."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detta är ingen vila."
           }
         },
         "uk" : {
@@ -1961,6 +2297,12 @@
             "value" : "Isso ainda vai estar aqui mais tarde."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Det här kommer att finnas kvar senare."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1993,6 +2335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hora de desconectar."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dags att koppla bort."
           }
         },
         "uk" : {
@@ -2030,6 +2378,12 @@
             "value" : "Se afaste."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gå iväg."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2062,6 +2416,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Isso foi intencional?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Var det här avsiktligt?"
           }
         },
         "uk" : {
@@ -2099,6 +2459,12 @@
             "value" : "O que você está evitando?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad är det du försöker undvika?"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2132,6 +2498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "O que você estava prestes a fazer?"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vad var du på väg att göra?"
           }
         },
         "uk" : {
@@ -2169,6 +2541,12 @@
             "value" : "Por que você está no celular?"
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Varför sitter du med din telefon?"
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2201,6 +2579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Anote essa ideia."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skriv ner din idé."
           }
         },
         "uk" : {
@@ -2238,6 +2622,12 @@
             "value" : "Você não precisa responder agora."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du behöver inte svara just nu."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2270,6 +2660,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você abriu isso no automático."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du öppnade det här utan att tänka efter."
           }
         },
         "uk" : {
@@ -2307,6 +2703,12 @@
             "value" : "Você prometeu."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du lovade."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2342,6 +2744,12 @@
             "value" : "Você estava indo tão bem."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du gjorde så bra ifrån dig."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2374,6 +2782,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você já é suficiente."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du är allt du behöver vara."
           }
         },
         "uk" : {
@@ -2411,6 +2825,12 @@
             "value" : "Você está fazendo de novo."
           }
         },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du gjorde det igen."
+          }
+        },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2443,6 +2863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você não está perdendo nada."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du missar inget."
           }
         },
         "uk" : {
@@ -2478,6 +2904,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Você tem coisas melhores para fazer."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Du har bättre saker för dig."
           }
         },
         "uk" : {
